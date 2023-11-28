@@ -1,0 +1,67 @@
+// 用户代码片段
+{
+    "Vue3 Template code": {
+        "scope": "vue",
+        "prefix": "vue3",
+        "body": [
+            "<script lang=\"ts\" setup>",
+            "",
+            "</script>",
+            "",
+            "<template>",
+            "    <div class=\"$0\">",
+            "        $0",
+            "    </div>",
+            "</template>",
+            "",
+            "<style lang=\"less\" scoped>",
+            "</style>"
+        ],
+        "description": "a vue3 template code"
+    },
+    "Vue3 Template code-sass": {
+        "scope": "vue",
+        "prefix": "vue3S",
+        "body": [
+            "<script lang=\"ts\" setup>",
+            "",
+            "</script>",
+            "",
+            "<template>",
+            "    <div class=\"$0\">",
+            "        $0",
+            "    </div>",
+            "</template>",
+            "",
+            "<style lang=\"scss\" scoped>",
+            "</style>"
+        ],
+        "description": "a vue3 template code"
+    },
+    "Vue3 Template code2": {
+        "scope": "typescript",
+        "prefix": "vue3Props",
+        "body": [
+            "interface IProps {",
+            "$0",
+            "}",
+            "const Props  = withDefaults(defineProps<IProps>(),{",
+            "",
+            "})"
+        ],
+        "description": "a vue3 Props code"
+    },
+    "JsDoc": {
+        "scope": "typescript",
+        "prefix": "jsdoc",
+        "body": [
+            "/**",
+            "* @description 描述$0",
+            "* @param {类型} 参数名 参数描述",
+            "* @param {类型} 参数名 参数描述",
+            "* @return {类型} 返回值描述",
+            "*/"
+        ],
+        "description": "ts函数注释"
+    }
+}
