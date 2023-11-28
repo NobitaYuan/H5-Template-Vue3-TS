@@ -17,7 +17,8 @@
   </a>
 </div>
 
-<h1 align="center">Vue3 h5 template (fork by yulimchen)</h1>
+<h1 align="center">Vue3 h5 template</h1>
+<h1 align="center">Fork by yulimchen and do some changes for myself</h1>
 
 **🌱 基于 Vue3 全家桶、TS/JS、Vite 构建工具，开箱即用的移动端项目基础模板**
 
